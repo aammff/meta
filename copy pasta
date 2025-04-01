@@ -1,0 +1,13 @@
+For propositional logic, it may be shown that semantic consequence 
+⊨
+{\displaystyle \models } and derivability 
+⊢
+{\displaystyle \vdash } are equivalent to one-another. That is, propositional logic is sound (
+⊢
+{\displaystyle \vdash } implies 
+⊨
+{\displaystyle \models }) and complete (
+⊨
+{\displaystyle \models } implies 
+⊢
+{\displaystyle \vdash })
